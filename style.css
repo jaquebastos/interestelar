@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #8ecae6;
+    margin: 0 0 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  
+  body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://img.elo7.com.br/product/zoom/16B1889/painel-espaco-g-frete-gratis-tema-de-festa-infantil.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
